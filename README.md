@@ -27,7 +27,7 @@ flask
 
 ### Todo
 
-- Add endpoint to check contents with eventid
+Add endpoint to check contents with eventid
 
 
 
