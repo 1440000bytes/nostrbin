@@ -1,0 +1,2 @@
+# nostrbin
+pastebin using nostr
